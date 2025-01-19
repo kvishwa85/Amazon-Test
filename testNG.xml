@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test-Suite" >
+    <listeners>
+        <listener class-name="reporting.TestListener" />
+    </listeners>
+    <test name="ToolsQA" >
+        <classes>
+            <class name="AmazonTest" />
+        </classes>
+    </test>
+</suite>

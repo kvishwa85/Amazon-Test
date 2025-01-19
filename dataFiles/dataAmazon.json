@@ -1,0 +1,14 @@
+[
+  {
+    "testCaseData" : "testAmazon",
+    "browserName" : "chrome",
+    "selectMenu" : "Electronics",
+    "searchItem1" : "IPhone 13",
+    "releventItem" : "iphone",
+    "searchItem2" : "iPhone 13 128GB",
+    "iphoneType" : "Apple iPhone 13 (128GB) - Blue",
+    "text1" : "Visit the Apple Store",
+    "appleCategory": "Apple Watch",
+    "appleProduct": "Apple Watch SE (GPS + Cellular)"
+  }
+]
